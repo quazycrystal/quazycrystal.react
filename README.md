@@ -1,2 +1,2 @@
 # Jiwon Kim
-React: Design Fine Art, Product, and Audio Systems 
+React: Fine Art, Product Design, and Audio Systems 
